@@ -153,6 +153,7 @@ a.signup:hover{
         grid-template-columns: 1fr;
         margin: 0 auto;
         width: 100%;
+        padding: 20px;
     }
     div.signin{
         width: 100%;
@@ -177,7 +178,7 @@ a.signup:hover{
         margin: 3em auto 5em;
     }
     div.text p{
-        width: 12em;
+        width: 15em;
     }
     a.sign{
         padding: 10px 20px;
